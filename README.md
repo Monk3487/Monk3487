@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Monk3487
-- 👀 I’m interested in ...
 - 🌱 I am currently learning Kubernetes
-- 💞️ I’m looking to collaborate on ...
+  
 
 
 <!---
